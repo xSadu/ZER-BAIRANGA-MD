@@ -3,7 +3,9 @@ Simple Whatsapp bot 🤖
 
 # <h1 align="center">ZER-BAIRANGA-MD 1.0.O</h1>
 
-<img src="https://imgur.com/a/ydovE9P" height="90" width="100%">
+<center>
+  <img src="https://github.com/xSadu/ZER-BAIRANGA-MD/blob/main/img/611B4CFF-426D-4DDB-9141-9F6FCF250B36.jpeg" height="350" width="680">
+</center>
 
 # Create fork
 
